@@ -1,6 +1,6 @@
 # NODE FARM <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" />
-<h3>Node Farm is a simple Web Server with 0 dependencies developed using only built in features. </h3>
-<h3>Farm also has attractive frontend part and provides info about some types of vegetables and products.</h3>
+<h3>:small_blue_diamond: Node Farm is a simple Web Server with 0 dependencies developed using only built in features. </h3>
+<h3>:small_orange_diamond: Farm also has attractive frontend part and provides info about some types of vegetables and products.</h3>
 
 <h1>Get started</h1>
 
@@ -12,5 +12,6 @@
 </ol>
 
 <h1>Reference</h1>
+<h3>Please find a short video-overview of project below. Hope you'll enjoy :blush:</h3>
 <video src='https://user-images.githubusercontent.com/112171659/219867033-9a89a143-373f-46d7-8590-0757212c829a.mp4' width='700'></video>
 
