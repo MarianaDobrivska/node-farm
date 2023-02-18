@@ -2,4 +2,4 @@
 
 # How it works
 
-<video src='/NODE FARM - how it works.mp4' width=180/>
+<video src='node-farm.mp4' width=180/>
